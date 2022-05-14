@@ -1,0 +1,15 @@
+body{
+    font-family: cursive;
+    background: red;
+}
+.header_div{
+    background: white;
+    background: blue;
+}
+.header_div p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: lightgreen;
+    letter-spacing: 2px;
+}
